@@ -1,0 +1,1 @@
+python train.py --model_type "NF_new" --batch_size 8 --learning_rate 1e-4 --dataset_name "GW150914" --data_path "/home/hongyu2/data/" --cuda_idx 0 --model_base "wavenet1" --output_feature_dim 254 --n_flow 4 --num_train_epochs 100 --low_res --input_size 4096 --pyro --online_whiten --short --n_parameter 2 --simCLR
