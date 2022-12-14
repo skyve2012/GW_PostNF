@@ -9,3 +9,6 @@ This repository contains the implementation of the model presented in paper "[St
 `train_submit.sh` includes command for training the model.
 
 `small_data_for_github.h5` contains sample data for reference.
+
+
+Notice that the `data_path` argument (i.e. hyperparameter) need to be changed in order to propoerly run the code.
