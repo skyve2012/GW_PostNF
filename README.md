@@ -1,4 +1,4 @@
-# GW_PostNF
+# A deep learning model for GW posterior estimation
 Posterior estimation of gravitational wave parameters across multiple events using deep learning models
 
 
